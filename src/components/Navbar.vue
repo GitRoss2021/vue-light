@@ -95,4 +95,8 @@ div.content {
   margin-top: 100px;
 }
 
+.icons:hover{
+  transform: scale(1.1);
+}
+
 </style>

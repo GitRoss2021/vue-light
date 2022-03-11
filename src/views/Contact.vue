@@ -20,7 +20,7 @@
       
       
       <div class="submit">
-        <input type="submit" value="Envoyer" id="button-blue"/>
+        <input type="submit" value="Submit" id="button-blue"/>
         <div class="ease"></div>
       </div>
     </form>

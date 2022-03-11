@@ -1,176 +1,192 @@
 <template>
   <section class="profile">
+    <!-- timeline start -->
+    <div class="container">
+      <h1>MY RESUME</h1>
 
-<!-- timeline start -->
-<div class="container">
-  <h1>MY RESUME</h1>
-  
-  <br>
-  
-  <div class="timeline">
-    <h2>2021</h2>
-    
-    <ul>
-      <li>
-        <h3>Life choices Academy</h3>
-        <p>Coding Bootcamp.</p>
-        <time>August 2013</time>
-      </li>
-      <li>
-        <h3>Started New Job</h3>
-        <p>Began work at the Button Factory. This was probably the best time of my life. I had a wife, a dog, and a family.</p>
-        <time>July 2013</time>
-      </li>
-      <li>
-        <h3>Changed my name to Joe</h3>
-        <p>I was just sick of Josh</p>
-        <time>June 2013</time>
-      </li>
-      <li>
-        <h3>Moved to Iowa</h3>
-        <p>I moved to <a href="#">Ames, Iowa</a> and settled down into my new life.</p>
-        <time>February 2013</time>
-      </li>
-    </ul>
-    
-    <h2>2012</h2>
-    <ul>
-      <li>
-        <h3>Graduated College</h3>
-        <p>It only took, like, two years.</p>
-        <time>December 2012</time>
-      </li>
-      <li>
-        <h3>Graduated Community College</h3>
-        <p>Studying Aerospace Engineering.</p>
-        <time>May 2012</time>
-      </li>
+      <br />
 
-       <li>
-        <h3>Graduated Community College</h3>
-        <p>Studying Aerospace Engineering.</p>
-        <time>May 2012</time>
-      </li>
+      <div class="timeline">
+        <h2>2022</h2>
 
-        <li>
-        <h3>Graduated College</h3>
-        <p>It only took, like, two years.</p>
-        <time>December 2012</time>
-      </li>
-      <li>
-        <h3>Graduated Community College</h3>
-        <p>Studying Aerospace Engineering.</p>
-        <time>May 2012</time>
-      </li>
-    </ul>
-  </div>
+        <ul>
+          <li>
+            <h3>Life choices Academy</h3>
+            <p>Coding Bootcamp.</p>
+            <time>March 2022</time>
+          </li>
+          <h2>2021</h2>
+          <li>
+            <h3>CESVI Foundation</h3>
+            <p>Field Facilitator.</p>
+            <time>September 2021</time>
+          </li>
+          <h2>2019</h2>
+          <li>
+            <h3>College of Cape Town</h3>
+            <p>Fundamental of Software Development</p>
+            <time>December 2019</time>
+          </li>
+          <li>
+            <h3>Tswaranang</h3>
+            <p>Part-time Facilitator.</p>
+            <time>February 2019</time>
+          </li>
+        </ul>
 
+        <h2>2018</h2>
+        <ul>
+          <li>
+            <h3>Tswaranang</h3>
+            <p>Baseline data collector.</p>
+            <time>December 2018</time>
+          </li>
+          <li>
+            <h3>Silulo Ulutho Technologies</h3>
+            <p>Jnr technician.</p>
+            <time>September 2018</time>
+          </li>
+        </ul>
+        <h2>2017</h2>
+        <ul>
+          <li>
+            <h3>College of Cape Town</h3>
+            <p>IT Essentials / A+</p>
+            <time> March 2017</time>
+          </li>
+        </ul>
+      </div>
 
+      <ul></ul>
+    </div>
 
-    <ul>
-    
-    </ul>
+    <!-- timeline ends -->
 
-</div>
+    <!-- projects -->
+    <h1>MY PROJECTS</h1>
+    <main>
+      <section>
+        
+          <figure>
+          <img
+            src="../assets/projects/project1.png"
+            alt="Free Stock Photo from pexels.com"
+          />
+        </figure>
+        <article>
+          <span>GitRoss2021</span>
+          <h2>E-commerce store</h2>
+          <p>HTML5, Boostrap, CSS3 & JavaScript.</p>
+        </article>
+        <button>Github</button>
+        <button>Netlify</button>
+        
+      </section>
 
-<!-- timeline ends -->
+      <section>
+        
+          <figure>
+          <img
+            src="../assets/projects/project2.png"
+            alt="Free Stock Photo from pexels.com"
+          />
+        </figure>
+        <article>
+          <span>GitRoss2021</span>
+          <h2>Codein-demo portfolio</h2>
+          <p>HTML5, Boostrap & CSS3.</p>
+        </article>
+        <button>Github</button>
+        <button>Netlify</button>
+      
+      </section>
 
+      <section>
+        <figure>
+          <img
+            src="../assets/projects/photo3.jpeg"
+            alt="Free Stock Photo from pexels.com"
+          />
+        </figure>
+        <article>
+          <span>GitRoss2021</span>
+          <h2>BMI Calculator</h2>
+          <p>
+          HTML5, Boostrap, CSS3 & JavaScript.
+          </p>
+        </article>
+        <button>Github</button>
+        <button>Netlify</button>
+      </section>
 
-<!-- projects -->
-<main>
-  <section>
-    <figure>
-      <img src="https://images.pexels.com/photos/944743/pexels-photo-944743.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" alt="Free Stock Photo from pexels.com">
-    </figure>
-    <article>
-      <span>Social Media</span>
-      <h1>Keep cool when you’re under attack</h1>
-      <p>Learn how to maintain your emotional balance when strangers start attacking you online.</p>
-    </article>
+      <section>
+        <figure>
+          <img
+            src="../assets/projects/project4.png"
+            alt="GitRoss2021"
+          />
+        </figure>
+        <article>
+          <span>GitRoss2021</span>
+          <h2>M&M Logo</h2>
+          <p>
+            Adobe Spark
+          </p>
+        </article>
+        <button>Github</button>
+        <button>Netlify</button>
+      </section>
+
+      <section>
+        <figure>
+          <img
+            src="https://images.pexels.com/photos/1142984/pexels-photo-1142984.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+            alt="Free Stock Photo from pexels.com"
+          />
+        </figure>
+        <article>
+          <span>Trav</span>
+          <h2>Your marvelous travel around the world</h2>
+          <p>
+            Get ready to spend days with intense happiness and adventure
+            alongside friends and family.
+          </p>
+        </article>
+        <button>Github</button>
+        <button>Netlify</button>
+      </section>
+
+     
+    </main>
   </section>
-  
-  <section>
-    <figure>
-      <img src="https://images.pexels.com/photos/821653/pexels-photo-821653.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" alt="Free Stock Photo from pexels.com">
-    </figure>
-    <article>
-      <span>Photography</span>
-      <h1>Shooting pictures like professionals</h1>
-      <p>Exposure, rule of thirds, ISO: what do you really need to become a professional photographer?</p>
-    </article>
-  </section>
-  
-  <section>
-    <figure>
-      <img src="https://images.pexels.com/photos/1391421/pexels-photo-1391421.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" alt="Free Stock Photo from pexels.com">
-    </figure>
-    <article>
-      <span>Travel</span>
-      <h1>Top 5 beaches to visit next holiday</h1>
-      <p>Time to change your destination and find out paradises to spend your next holiday.</p>
-    </article>
-  </section>
-  
-  <section>
-    <figure>
-      <img src="https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" alt="Free Stock Photo from pexels.com">
-    </figure>
-    <article>
-      <span>Architecture</span>
-      <h1>Modern architecture and its influence</h1>
-      <p>You probably don’t know how important this movement is for our generation.</p>
-    </article>
-  </section>
-  
-  <section>
-    <figure>
-      <img src="https://images.pexels.com/photos/1142984/pexels-photo-1142984.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" alt="Free Stock Photo from pexels.com">
-    </figure>
-    <article>
-      <span>Travel</span>
-      <h1>Your marvelous travel around the world</h1>
-      <p>Get ready to spend days with intense happiness and adventure alongside friends and family.</p>
-    </article>
-  </section>
-  
-  <section>
-    <figure>
-      <img src="https://images.pexels.com/photos/57690/pexels-photo-57690.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" alt="Free Stock Photo from pexels.com">
-    </figure>
-    <article>
-      <span>Design</span>
-      <h1>Improve your design skills with Gestalt Principles</h1>
-      <p>Proximity, redundance, contrast: what does these words really means when designing?</p>
-    </article>
-  </section>
-</main>
-
-  </section>
-
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
 <style scoped>
-.profile{
-padding-left: 10%;
+* {
+  font-family: "poppins-semibold", sans-serif;
 }
 
-@media  screan{
-  .profile{
+.profile {
+  padding-left: 10%;
+
+}
+
+@media screan {
+  .profile {
     padding: 0;
   }
 }
 
-h1{
-padding-top: 70px;
+h1 {
+  padding-top: 70px;
   font-size: 40px !important;
-   -webkit-animation: tracking-in-expand 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
-	        animation: tracking-in-expand 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;  
+  -webkit-animation: tracking-in-expand 0.7s cubic-bezier(0.215, 0.61, 0.355, 1)
+    both;
+  animation: tracking-in-expand 0.7s cubic-bezier(0.215, 0.61, 0.355, 1) both;
 }
 
 /* ----------------------------------------------
@@ -210,158 +226,168 @@ padding-top: 70px;
   }
 }
 
- h2, h3 {
-	 font-weight: 300px;
-   font-weight: bold;
+h2,
+h3 {
+  font-weight: 300px;
+  font-weight: bold;
 }
- .container {
-	 padding: 1em;
+.container {
+  padding: 1em;
 }
- .timeline {
-   
-	 position: relative;
-	 overflow: auto;
+.timeline {
+  position: relative;
+  overflow: auto;
 }
- .timeline:before {
-	 content: '';
-	 position: absolute;
-	 height: 100%;
-	 width: 5px;
-	 background: #ddd;
-	 left: 0;
+.timeline:before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 5px;
+  background: #ddd;
+  left: 0;
 }
- .timeline h2 {
-	 background: #ddd;
-	 max-width: 6em;
-	 margin: 0 auto 1em;
-	 padding: 0.5em;
-	 text-align: center;
-	 position: relative;
-	 clear: both;
+.timeline h2 {
+  background: #ddd;
+  max-width: 6em;
+  margin: 0 auto 1em;
+  padding: 0.5em;
+  text-align: center;
+  position: relative;
+  clear: both;
 }
- .timeline ul {
-	 list-style: none;
-	 padding: 0 0 0 1em;
-	 z-index: 1;
+.timeline ul {
+  list-style: none;
+  padding: 0 0 0 1em;
+  z-index: 1;
 }
- .timeline li {
-	 background: #ddd;
-	 padding: 1em;
-	 margin-bottom: 1em;
-	 position: relative;
+.timeline li {
+  background: #ddd;
+  padding: 1em;
+  margin-bottom: 1em;
+  position: relative;
 }
- .timeline li:before {
-	 content: '';
-	 width: 0;
-	 height: 0;
-	 border-top: 1em solid #ddd;
-	 border-left: 1em solid transparent;
-	 position: absolute;
-	 left: -1em;
-	 top: 0;
+.timeline li:before {
+  content: "";
+  width: 0;
+  height: 0;
+  border-top: 1em solid #ddd;
+  border-left: 1em solid transparent;
+  position: absolute;
+  left: -1em;
+  top: 0;
 }
- .timeline h3 {
-	 margin-top: 0;
+.timeline h3 {
+  margin-top: 0;
 }
- .timeline time {
-	 font-style: italic;
+.timeline time {
+  font-style: italic;
 }
- @media screen and (min-width: 40em) {
-	 .container {
-		 max-width: 1000px;
-		 margin: 0 auto;
-	}
-	 .timeline:before {
-		 left: 50%;
-	}
-	 .timeline ul {
-		 padding-left: 0;
-		 max-width: 700px;
-		 margin: 0 auto;
-	}
-	 .timeline li {
-		 width: 42%;
-	}
-	 .timeline li:nth-child(even) {
-		 float: right;
-		 margin-top: 2em;
-	}
-	 .timeline li:nth-child(odd) {
-		 float: left;
-	}
-	 .timeline li:nth-child(odd):before {
-		 border-top: 1em solid #ddd;
-		 border-right: 1em solid transparent;
-		 right: -1em;
-		 left: auto;
-	}
-	 .timeline li:nth-of-type(2n+1) {
-		 clear: both;
-	}
+@media screen and (min-width: 40em) {
+  .container {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  .timeline:before {
+    left: 50%;
+  }
+  .timeline ul {
+    padding-left: 0;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  .timeline li {
+    width: 42%;
+  }
+  .timeline li:nth-child(even) {
+    float: right;
+    margin-top: 2em;
+  }
+  .timeline li:nth-child(odd) {
+    float: left;
+  }
+  .timeline li:nth-child(odd):before {
+    border-top: 1em solid #ddd;
+    border-right: 1em solid transparent;
+    right: -1em;
+    left: auto;
+  }
+  .timeline li:nth-of-type(2n + 1) {
+    clear: both;
+  }
 }
- 
+
 /* timeline ends */
 
- /* projects */
-*{
+/* projects */
+* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
-body{
+body {
   background: #f7f7f7;
   color: #777;
   font-family: "Myriad Web Pro", Helvetica, Sans-Serif;
-  font-size: .875em;
+  font-size: 0.875em;
 }
 
 /* CONTAINERS */
-main{
-	/* margin-left:  400px !important; */
+main {
+  margin-bottom: 20px !important;
   margin: auto;
   max-width: 400px;
 }
-section{
+section {
   background: #fff;
-  border-radius: .25em;
-  box-shadow: 0 .15em .175em hsla(0,0%,0%,.1);
+  border-radius: 0.25em;
+  box-shadow: 0 0.15em 0.175em hsla(0, 0%, 0%, 0.5);
   margin: 1.5em;
   overflow: hidden;
 }
-figure{
+
+article:hover{
+  transform: scale(1.1) !important;
+
+}
+
+img:hover{
+transform: scale(1.1);
+}
+
+figure {
   height: 12.5em;
 }
-article{
+article {
   padding: 2em;
 }
 
 /* IMAGE */
-img{
+img {
   height: 100%;
   object-fit: cover;
   width: 100%;
 }
 
 /* TYPOGRAPHY */
-h1{
+h1 {
   font-size: 2em;
-  letter-spacing: -.05em;
+  letter-spacing: -0.05em;
   line-height: 1;
-  margin: .25em 0;
+  margin: 0.25em 0;
 }
-p{
+p {
   line-height: 1.4;
 }
-span{
+span {
   color: #bbb;
-  font-size: .75em;
+  font-size: 0.75em;
   text-transform: uppercase;
-  word-spacing: .0625em;
+  word-spacing: 0.0625em;
 }
 
-@supports (display: grid){
-  @media only screen and (min-width: 768px){
-    main{
+@supports (display: grid) {
+  @media only screen and (min-width: 768px) {
+    main {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
       grid-gap: 1.5em;
@@ -369,11 +395,24 @@ span{
       padding: 1.5em;
     }
 
-    section{
+    section {
       margin: 0;
     }
   }
 }
 
+button {
+  margin-bottom: 12px;
+  display: inline;
+  background-color: black;
+  color: white;
+  border: none;
+  font-size: 15px;
+  width: 70px;
+  height: 30px;
+}
 
+button:hover {
+  background-color: #d66b18;
+}
 </style>

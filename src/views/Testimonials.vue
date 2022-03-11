@@ -17,11 +17,11 @@
                         <div class="card shadow-sm border-0">
                             <div class="card-body">
                                 <div class="user-picture">
-                                    <img src="https://images.unsplash.com/photo-1495603889488-42d1d66e5523?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=130&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=130" class="shadow-sm rounded-circle" height="130" width="130" />
+                                    <img src="https://i.postimg.cc/tgv4dTwc/chad.png" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name">Carry Johnshon</h5>
-                                    <p class=" text-capitalize text-muted small blockquote-footer">Web developer</p>
+                                    <h5 class="text-capitalize user-name">Chad Hendricks</h5>
+                                    <p class=" text-capitalize text-muted small blockquote-footer">Frontend Developer</p>
                                     <div class="small">
                                         <i class="fas fa-star text-warning"></i>
                                         <i class="fas fa-star text-warning"></i>
@@ -29,8 +29,7 @@
                                         <i class="fas fa-star-half-alt text-warning"></i>
                                         <i class="fas fa-star text-light"></i>
                                     </div>
-                                    <p class="small text-muted mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet nemo harum repellendus aut itaque. Temporibus quaerat dolores ut, cupiditate molestiae commodi! Distinctio praesentium, debitis aut minima doloribus earum
-                                        quia commodi.</p>
+                                    <p class="small text-muted mb-0">"Since we started working together, Mr Mantini has shown that he is a committed, hardworking and a talented developer. Always striving for excellence, never giving less than 110 percent. He definitely has a bright future in this industry".</p>
                                 </div>
                             </div>
                         </div>
@@ -39,11 +38,11 @@
                         <div class="card shadow-sm border-0">
                             <div class="card-body">
                                 <div class="user-picture">
-                                    <img src="https://images.unsplash.com/photo-1582003457856-20898dd7e1ea?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=130&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=130" class="shadow-sm rounded-circle" height="130" width="130" />
+                                    <img src="https://i.postimg.cc/d1zQXfqm/Whats-App-Image-2022-01-29-at-1-15-12-PM.jpg" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name">Alex Carry</h5>
-                                    <p class=" text-capitalize text-muted small blockquote-footer">Web developer</p>
+                                    <h5 class="text-capitalize user-name">Nomvuyiseko Mpofu</h5>
+                                    <p class=" text-capitalize text-muted small blockquote-footer">Frontend Developer</p>
                                     <div class="small">
                                         <i class="fas fa-star text-warning"></i>
                                         <i class="fas fa-star text-warning"></i>
@@ -51,8 +50,7 @@
                                         <i class="fas fa-star text-light"></i>
                                         <i class="fas fa-star text-light"></i>
                                     </div>
-                                    <p class="small text-muted mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet nemo harum repellendus aut itaque. Temporibus quaerat dolores ut, cupiditate molestiae commodi! Distinctio praesentium, debitis aut minima doloribus earum
-                                        quia commodi.</p>
+                                    <p class="small text-muted mb-0">"Mr Mantini is a hardworker and always willing to learn, he has good wor ethics and respect for fellow staff members".</p>
                                 </div>
                             </div>
                         </div>
@@ -61,11 +59,11 @@
                         <div class="card shadow-sm border-0">
                             <div class="card-body">
                                 <div class="user-picture">
-                                    <img src="https://images.unsplash.com/photo-1492447166138-50c3889fccb1?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=130&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=130" class="shadow-sm rounded-circle" height="130" width="130" />
+                                    <img src="https://i.postimg.cc/zfsj0nLb/Bongani.jpg" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name">John Smith</h5>
-                                    <p class=" text-capitalize text-muted small blockquote-footer">Web developer</p>
+                                    <h5 class="text-capitalize user-name">Bongani Nomangola</h5>
+                                    <p class=" text-capitalize text-muted small blockquote-footer">Full-stack developer</p>
                                     <div class="small">
                                         <i class="fas fa-star text-warning"></i>
                                         <i class="fas fa-star text-warning"></i>
@@ -73,8 +71,7 @@
                                         <i class="fas fa-star text-warning"></i>
                                         <i class="fas fa-star-half-alt text-warning"></i>
                                     </div>
-                                    <p class="small text-muted mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet nemo harum repellendus aut itaque. Temporibus quaerat dolores ut, cupiditate molestiae commodi! Distinctio praesentium, debitis aut minima doloribus earum
-                                        quia commodi.</p>
+                                    <p class="small text-muted mb-0">"We love working with Mr Mantini, he is a team player motivate others and good with communication".</p>
                                 </div>
                             </div>
                         </div>
@@ -84,11 +81,11 @@
                         <div class="card shadow-sm border-0">
                             <div class="card-body">
                                 <div class="user-picture">
-                                    <img src="https://i.picsum.photos/id/836/130/130.jpg?hmac=Sot_REUw5W-XSuE6FmCjT9JenhZfiNqZYs3AQbfrZsc" class="shadow-sm rounded-circle" height="130" width="130" />
+                                    <img src="https://i.postimg.cc/Y94qd7wC/siya.jpg" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name">George Alex</h5>
-                                    <p class=" text-capitalize text-muted small blockquote-footer">Web developer</p>
+                                    <h5 class="text-capitalize user-name">Siyabonga Mkosana</h5>
+                                    <p class=" text-capitalize text-muted small blockquote-footer">Full-stack developer</p>
                                     <div class="small">
                                         <i class="fas fa-star text-warning"></i>
                                         <i class="fas fa-star-half-alt text-warning"></i>
@@ -96,8 +93,28 @@
                                         <i class="fas fa-star text-light"></i>
                                         <i class="fas fa-star text-light"></i>
                                     </div>
-                                    <p class="small text-muted mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet nemo harum repellendus aut itaque. Temporibus quaerat dolores ut, cupiditate molestiae commodi! Distinctio praesentium, debitis aut minima doloribus earum
-                                        quia commodi.</p>
+                                    <p class="small text-muted mb-0">Mr Mantini, has shown great workmanship and commitment since we started at Life Choices Coding Academy. He maintains a professional work culture, a good addition to any company because of his ability to adapt."</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                     <div class="col-lg-4 col-md-6 mb-4 pt-5">
+                        <div class="card shadow-sm border-0">
+                            <div class="card-body">
+                                <div class="user-picture">
+                                    <img src="../assets/testimonials/Ashley.jpg" class="shadow-sm rounded-circle" height="130" width="130" />
+                                </div>
+                                <div class="user-content">
+                                    <h5 class="text-capitalize user-name">Ashley Kannemeyer</h5>
+                                    <p class=" text-capitalize text-muted small blockquote-footer">full stack developer</p>
+                                    <div class="small">
+                                        <i class="fas fa-star text-warning"></i>
+                                        <i class="fas fa-star text-warning"></i>
+                                        <i class="fas fa-star-half-alt text-warning"></i>
+                                        <i class="fas fa-star text-light"></i>
+                                        <i class="fas fa-star text-light"></i>
+                                    </div>
+                                    <p class="small text-muted mb-0">"I have worked with Lilitha he is a goot team player, always strives to achieve the best results".</p>
                                 </div>
                             </div>
                         </div>
@@ -106,11 +123,11 @@
                         <div class="card shadow-sm border-0">
                             <div class="card-body">
                                 <div class="user-picture">
-                                    <img src="https://images.unsplash.com/photo-1495603889488-42d1d66e5523?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=130&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=130" class="shadow-sm rounded-circle" height="130" width="130" />
+                                    <img src="../assets/testimonials/Bulela.jpeg" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name">Carry Johnshon</h5>
-                                    <p class=" text-capitalize text-muted small blockquote-footer">Web developer</p>
+                                    <h5 class="text-capitalize user-name">Bulela Gomoshe</h5>
+                                    <p class=" text-capitalize text-muted small blockquote-footer">Frontend developer</p>
                                     <div class="small">
                                         <i class="fas fa-star text-warning"></i>
                                         <i class="fas fa-star text-warning"></i>
@@ -118,34 +135,12 @@
                                         <i class="fas fa-star-half-alt text-warning"></i>
                                         <i class="fas fa-star text-light"></i>
                                     </div>
-                                    <p class="small text-muted mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet nemo harum repellendus aut itaque. Temporibus quaerat dolores ut, cupiditate molestiae commodi! Distinctio praesentium, debitis aut minima doloribus earum
-                                        quia commodi.</p>
+                                    <p class="small text-muted mb-0">"As a fellow student I think Lilitha has a reliable and caring personality. He loves participating  and engaging in class when given the opportunity.  I look forward to seeing what he will achieve in the future and highly reccomend him ."</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 mb-4 pt-5">
-                        <div class="card shadow-sm border-0">
-                            <div class="card-body">
-                                <div class="user-picture">
-                                    <img src="https://images.unsplash.com/photo-1582003457856-20898dd7e1ea?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=130&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=130" class="shadow-sm rounded-circle" height="130" width="130" />
-                                </div>
-                                <div class="user-content">
-                                    <h5 class="text-capitalize user-name">Alex Carry</h5>
-                                    <p class=" text-capitalize text-muted small blockquote-footer">Web developer</p>
-                                    <div class="small">
-                                        <i class="fas fa-star text-warning"></i>
-                                        <i class="fas fa-star text-warning"></i>
-                                        <i class="fas fa-star-half-alt text-warning"></i>
-                                        <i class="fas fa-star text-light"></i>
-                                        <i class="fas fa-star text-light"></i>
-                                    </div>
-                                    <p class="small text-muted mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet nemo harum repellendus aut itaque. Temporibus quaerat dolores ut, cupiditate molestiae commodi! Distinctio praesentium, debitis aut minima doloribus earum
-                                        quia commodi.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                   
                 </div>
             </div>
             <!-- /cards -->

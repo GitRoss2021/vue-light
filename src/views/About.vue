@@ -10,10 +10,11 @@
 			<div class="intro-details">
 				<div class="intro-image">
 					<div class="image">
-						<img class="image-circle" src="../assets/jasoncalvert.png" alt="">
+						<img class="image-circle" src="../assets/about/about.png" alt="">
 					</div>
 				</div>
-				<div class="intro-paragraph padding"><p>Lorem ipsum Exercitation culpa qui dolor consequat exercitation fugiat laborum ex ea eiusmod ad do aliqua occaecat nisi ad irure sunt id pariatur Duis laboris amet exercitation veniam labore consectetur ea id quis eiusmod.</p></div>
+				<div class="intro-paragraph padding"><p>I am an aspiring Frontend developer based in the beautiful province,
+      Western Cape. I am passionate about Software development,  as i have started my career in the technical side of IT i was dealing with hardware repairs and software. In my spare time i am father to a smart and viabrant four year  old daughter.  </p></div>
 			</div>
 		</div>
 		<div class="about-info">
@@ -52,16 +53,20 @@
 				   </li>
 				   <li>
 				   	<div class="progress percent70"><span>70%</span></div>
-				   	<strong>JQuery</strong>
+				   	<strong>JavaScript</strong>
 				   </li>
 				   <li>
 				   	<div class="progress percent95"><span>95%</span></div>
-				   	<strong>PHP</strong>
+				   	<strong>Adobe Photoshop / Adobe Spark</strong>
 				   </li>
 				   <li>
 
 				   	<div class="progress percent75"><span>75%</span></div>
-				   	<strong>Wordpress</strong>
+				   	<strong>Vue JS</strong>
+				   </li>
+				    <li>
+				   	<div class="progress percent70"><span>70%</span></div>
+				   	<strong>MySQL</strong>
 				   </li>
       
 				</ul> <!-- /skill-bars -->		
@@ -103,7 +108,7 @@ export default {
  }
 
 *{
-  font-family: "poppins-regular", sans-serif;
+  font-family: "poppins-regular", sans-serif !important;
 	box-sizing: border-box;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -116,6 +121,11 @@ export default {
 .image{
   height: 200px;
   width: 300px;
+}
+
+.image-circle{
+	width: 280px !important;
+	border-color: transparent !important;;
 }
 
 img{
@@ -306,12 +316,12 @@ img{
 .skill-bars li .percent55  { width: 55%; }
 .skill-bars li .percent60  { width: 60%; }
 .skill-bars li .percent65  { width: 65%; }
-.skill-bars li .percent70  { width: 70%; }
-.skill-bars li .percent75  { width: 75%; }
+.skill-bars li .percent70  { width: 30%; }
+.skill-bars li .percent75  { width: 45%; }
 .skill-bars li .percent80  { width: 80%; }
 .skill-bars li .percent85  { width: 85%; }
 .skill-bars li .percent90  { width: 90%; }
-.skill-bars li .percent95  { width: 95%; }
+.skill-bars li .percent95  { width: 75%; }
 .skill-bars li .percent100 { width: 100%; }
 
 
